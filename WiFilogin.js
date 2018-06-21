@@ -1,5 +1,4 @@
 // ==UserScript==
-// @name 
 // @name:en      ShanghaiTech WiFi Auto login
 // @name           跳过网站等待、验证码及登录
 // @namespace https://github.com/aichiyu/Auto-login-wifi-with-tampermonkey
@@ -8,6 +7,9 @@
 // @author 爱吃鱼的27
 // @match *controller.shanghaitech.edu.cn*
 // @grant none
+//@icon64  https://s1.ax2x.com/2018/02/08/vIH7p.png
+// @updateURL  https://github.com/aichiyu/Auto-login-wifi-with-tampermonkey/blob/master/WiFilogin.js
+// @downloadURL  https://github.com/aichiyu/Auto-login-wifi-with-tampermonkey/blob/master/WiFilogin.js
 // ==/UserScript==
 
 
